@@ -1,0 +1,60 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Efficient Cross-Architecture Binary Function Embeddings
+  through Knowledge Distillation
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+authors:
+  - given-names: Dominik
+    family-names: Bayerl
+    email: dominik.bayerl@carissma.eu
+    affiliation: 'Technische Hochschule Ingolstadt, Ingolstadt, Germany'
+    orcid: 'https://orcid.org/0000-0003-0439-066X'
+  - given-names: Thomas
+    family-names: Hutzelmann
+    orcid: 'https://orcid.org/0000-0002-2871-3905'
+    affiliation: 'Technische Hochschule Ingolstadt, Ingolstadt, Germany'
+  - orcid: 'https://orcid.org/0000-0002-6930-9271'
+    affiliation: 'Technische Hochschule Ingolstadt, Ingolstadt, Germany'
+    given-names: Hans-Joachim
+    family-names: Hof
+identifiers:
+  - type: doi
+    value: 10.1145/3709017.3737709
+    description: Paper
+repository-code: >-
+  https://github.com/securityinmobility/autobert-binary-embedding
+keywords:
+  - Software reverse engineering
+  - Automated static analysis
+  - Binary function similarity
+license: GPL-3.0
+preferred-citation:
+  type: conference-paper
+  authors: 
+  - given-names: Dominik
+    family-names: Bayerl
+    email: dominik.bayerl@carissma.eu
+    affiliation: 'Technische Hochschule Ingolstadt, Ingolstadt, Germany'
+    orcid: 'https://orcid.org/0000-0003-0439-066X'
+  - given-names: Thomas
+    family-names: Hutzelmann
+    orcid: 'https://orcid.org/0000-0002-2871-3905'
+    affiliation: 'Technische Hochschule Ingolstadt, Ingolstadt, Germany'
+  - orcid: 'https://orcid.org/0000-0002-6930-9271'
+    affiliation: 'Technische Hochschule Ingolstadt, Ingolstadt, Germany'
+    given-names: Hans-Joachim
+    family-names: Hof
+  doi: "10.1145/3709017.3737709"
+  title: "Efficient Cross-Architecture Binary Function Embeddings through Knowledge Distillation"
+  conference:
+    name: "Cyber-Physical System Security Workshop"
+  collection-title: "Proceedings of the 11th ACM Cyber-Physical System Security Workshop"
+  publisher: "Association for Computing Machinery"
+  year: 2025
+  start: 43
+  end: 51
